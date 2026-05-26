@@ -19,6 +19,7 @@ An AI-powered CRM assistant that can:
 
 ```bash
 pip install -r requirements.txt
+install venv also then activate the venv first
 python test.py
 
 # Future Scope
